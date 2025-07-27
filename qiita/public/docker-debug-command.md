@@ -1,14 +1,15 @@
 ---
 title: 'Dockerコンテナに未インストールのコマンドを実行する : docker debug コマンド'
-private: false
 tags:
-  - docker
-  - dockerdesktop
   - debug
-updated_at: '2025-07-27T03:40:17.197Z'
-id: null
+  - Docker
+  - DockerDesktop
+private: false
+updated_at: '2025-07-27T12:40:24+09:00'
+id: 17434a68be2d468945d5
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## TL;DR
