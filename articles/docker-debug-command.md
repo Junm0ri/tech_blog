@@ -2,7 +2,7 @@
 title: "Dockerコンテナに未インストールのコマンドを実行する : docker debug コマンド"
 emoji: "🐳"
 type: "tech"
-topics: [docker, dockerdesktop, debug]
+topics: ["docker", "dockerdesktop", "debug"]
 published: true
 ---
 
