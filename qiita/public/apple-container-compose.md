@@ -1,15 +1,16 @@
 ---
 title: Apple Containerでcomposeを使いたい
-private: false
 tags:
-  - apple
+  - Apple
+  - Docker
   - container
-  - docker
-  - compose
-updated_at: '2025-08-03T02:42:13.185Z'
-id: null
+  - Compose
+private: false
+updated_at: '2025-08-03T11:42:21+09:00'
+id: 0782e39b248e5f640d6f
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## TL;DR
