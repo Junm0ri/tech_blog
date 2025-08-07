@@ -11,3 +11,4 @@
 
 ### その他
 - OSS Contributionまでの道のり
+- Cursorの誤送信を防ぐためのHack
