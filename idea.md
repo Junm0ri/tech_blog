@@ -6,9 +6,13 @@
 - Docker Internal
 - Kata Container
 - repomixの --compression オプションの仕組みとRubyで上手くいかない理由
+- MacでRSpecを動かすとクラッシュする問題の原因と解決方法
+  -  `DISABLE_SPRING`による解決
+  -  そもそも何が起きているのか？
 
 ### コードリーディング
-- Apple Container/ Containerization 
+- Apple Container/ Containerization
+- Moby Project (Docker)
 
 ### その他
 - OSS Contributionまでの道のり
