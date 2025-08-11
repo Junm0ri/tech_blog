@@ -3,7 +3,7 @@ title: "電子書籍をオーディオブックに変換する：abogenを試し
 emoji: "📖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [oss, ebook, audiobook, epub]
-published: false
+published: true
 ---
 
 ## TL;DR
