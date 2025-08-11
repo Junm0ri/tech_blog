@@ -16,6 +16,7 @@
 
 ### AI Driven 開発日記
 - ClaudeCodeUIのセットアップ・使用感
+  - VPNを使用して外出先からスマホで操作する方法も含めたい
 
 ### その他
 - OSS Contributionまでの道のり
