@@ -13,7 +13,7 @@ ignorePublish: false
 ---
 
 ## TL;DR
-- omnaraというGitHubリポジトリの紹介
+- [omnara](https://github.com/omnara-ai/omnara)というGitHubリポジトリの紹介
 - 自宅PCで動作しているClaude Codeを外出先からスマホで操作できるようにする
 - マネージドサービスを利用することが出来るため、セットアップが手軽に完了するのが魅力
 
