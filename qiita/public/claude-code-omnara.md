@@ -1,14 +1,15 @@
 ---
 title: 'Omnara: セットアップ（ほぼ）0で外出先からClaude Code'
-private: false
 tags:
-  - ClaudeCode
   - OSS
+  - ClaudeCode
   - VibeCoding
-updated_at: '2025-08-15T07:16:39.854Z'
-id: null
+private: false
+updated_at: '2025-08-15T16:16:46+09:00'
+id: 1d54c4e1ca580bcb61f6
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## TL;DR
