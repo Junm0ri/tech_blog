@@ -1,15 +1,16 @@
 ---
 title: 電子書籍をオーディオブックに変換する：abogenを試してみた
-private: false
 tags:
-  - oss
+  - EPUB
   - ebook
+  - OSS
   - audiobook
-  - epub
-updated_at: '2025-08-16T10:15:54+09:00'
+private: false
+updated_at: '2025-08-16T10:20:10+09:00'
 id: c02507659031b173ca7c
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## TL;DR
