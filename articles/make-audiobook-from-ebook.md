@@ -9,9 +9,9 @@ published: true
 ## TL;DR
 - [abogen](https://github.com/denizsafak/abogen)というOSSを試してみた
   - EPUB, PDFを音声化して、オーディオブックを作成するツール
-- Linux/Windows/MacOS、 GPU/CPUの全環境で動作する
-  - CPUでも50ページのデータを約5分で音声化できた
-- 音声ファイルのままだと扱いにくいので、スマホからストリーミング再生できるともっと便利になりそう
+- Linux/Windows/MacOS、 GPU/CPUの全環境で動作
+  - CPUでも50ページのデータを約5分で音声データへ変換可能
+- 変換された音声ファイルをスマホに転送すればSpotifyアプリから再生可能
 
 ## 概要
 
