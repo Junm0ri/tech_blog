@@ -2,7 +2,7 @@
 title: "電子書籍、Kindleで読むか？PCで読むか？"
 emoji: "📖"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: [poem,kindle, ebook]
+topics: [poem,kindle, ebook, zennfes2025free]
 published: true
 ---
 
