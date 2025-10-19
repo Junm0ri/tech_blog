@@ -1,14 +1,15 @@
 ---
 title: 電子書籍、Kindleで読むか？PCで読むか？
-private: false
 tags:
-  - poem
-  - kindle
+  - ポエム
+  - Kindle
   - ebook
-updated_at: '2025-10-19T04:30:39.636Z'
-id: null
+private: false
+updated_at: '2025-10-19T13:30:48+09:00'
+id: edc93fcc545eb3701bc0
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## TL;DR
