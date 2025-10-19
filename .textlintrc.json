@@ -1,0 +1,25 @@
+{
+  "rules": {
+    "preset-japanese": {
+      "sentence-length": {
+        "max": 120
+      },
+      "max-ten": {
+        "max": 4
+      },
+      "no-exclamation-question-mark": false,
+      "no-mix-dearu-desumasu": {
+        "preferInBody": "ですます",
+        "strict": false
+      }
+    },
+    "preset-ja-spacing": {
+      "ja-space-between-half-and-full-width": {
+        "space": "always"
+      }
+    },
+    "prh": {
+      "rulePaths": ["./prh.yml"]
+    }
+  }
+}

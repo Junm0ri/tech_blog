@@ -1,0 +1,17 @@
+version: 1
+rules:
+  - expected: JavaScript
+    patterns:
+      - javascript
+      - Javascript
+      - JAVASCRIPT
+
+  - expected: VS Code
+    patterns:
+      - vscode
+      - VSCode
+      - Visual Studio Code
+
+  - expected: ステップ
+    pattern: /手順\s*\d/
+    prh: 「手順1」ではなく「ステップ1」を使用
