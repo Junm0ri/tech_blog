@@ -1,16 +1,19 @@
 ---
 title: 'さよなら Docker Desktop : Apple container machine を「Mac 版 WSL」にする'
-private: false
 tags:
-  - docker
-  - apple
+  - Docker
+  - Apple
   - container
-  - compose
-  - ssh
-updated_at: '2026-11-01T07:51:00.202Z'
-id: null
+  - Compose
+  - SSH
+private: false
+updated_at: '2026-11-01T16:51:08+09:00'
+id: 6f6182b0776b69f76bd5
 organization_url_name: null
 slide: false
+ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 
 ## TL;DR
